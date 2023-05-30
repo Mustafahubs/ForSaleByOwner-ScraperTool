@@ -1,4 +1,4 @@
-![ForSaleByOwner.png](/images/Scrap%20Proprties.png)
+![ForSaleByOwner.png](/images/ScrapProprties.png)
 
 <br/>
 <p align="center">
