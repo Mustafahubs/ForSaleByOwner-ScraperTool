@@ -1,13 +1,10 @@
-<!-- # ForSaleByOwner-ScraperTool
-forsalebyowner.com listings scraper tool in python using API.
-
-![ForSaleByOwner.png](/images/Scrap%20Proprties.png) -->
+![ForSaleByOwner.png](/images/Scrap%20Proprties.png)
 
 <br/>
 <p align="center">
-  <a href="https://github.com/mustafahubs/ForSaleByOwner-ScraperTool">
+  <!-- <a href="https://github.com/mustafahubs/ForSaleByOwner-ScraperTool">
     <img src="images/ScrapProprties.png" alt="Logo" width="640" height="480">
-  </a>
+  </a> -->
 
   <h3 align="center">Python Scraper for Sale Listings on ForSaleByOwner.com</h3>
 
