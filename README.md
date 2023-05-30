@@ -55,44 +55,59 @@ pyinputplus: To get input from the user and validate it.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+First of all you make sure you have Git and Python Should be installed in your machine.
+
+And both should be accessible globally on your terminal.
+
+Open your terminal in any location and clone the repository by running:
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-
-```sh
-npm install npm@latest -g
-```
+* Git
+* Python
+* Pip
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
+1. Clone this repository
 
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
 
-3. Install NPM packages
+2. Change directory
 
 ```sh
-npm install
+cd ForSaleByOwner-ScraperTool
 ```
 
-4. Enter your API in `config.js`
+3. Install required modules
 
-```JS
-const API_KEY = 'ENTER YOUR API';
+```sh
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-To use the scraper, simply run the Python script and provide the desired search parameters. The scraper will then navigate through the ForSaleByOwner website, extracting the relevant data and saving it to a CSV file. The extracted data can be easily accessed and analyzed using various data manipulation tools and techniques.
+To use the scraper, simply execute the Python script ```main.py``` and provide the desired search parameters.
+
+```sh
+python main.py
+```
+The scraper will ask for address key words input. The best way is provide some initial address words as input it will show some suggestions to auto complete the search.
+
+![After-First-Command](/images/usageImage1.png)
+
+Let say if I need properties in `New York` City Then I will type `"New"` inital words.
+
+![After-First-Command](/images/usageImage2.png)
+
+Now select slugs by index number let's select slugs `new-your` by passing index `1`.
+
+![After-First-Command](/images/usageImage3.png)
+
+Now it will ask to delete the previous csv file data if you have already. As you setting it up first time so you will not have any csv just chose `Yes` by passing `a`.
+
+The scraper will then navigate through the ForSaleByOwner website, extracting the relevant data and saving it to a CSV file. The extracted data can be easily accessed and analyzed using various data manipulation tools and techniques.
 
 ## Contributing
 
@@ -120,4 +135,3 @@ Contributions to this project are welcome! If you have any ideas for improvement
 
 * [MustafaHubs](https://github.com/Mustafahubs/)
 * [ImgShields](https://shields.io/)
-* []()
