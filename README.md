@@ -5,15 +5,13 @@
   <!-- <a href="https://github.com/mustafahubs/ForSaleByOwner-ScraperTool">
     <img src="images/ScrapProprties.png" alt="Logo" width="640" height="480">
   </a> -->
-
+  <h3 align="center"><a href="https://youtu.be/FuvdO7mSAkE">>>View Demo<<</a></h3>
   <h3 align="center">Python Scraper for Sale Listings on ForSaleByOwner.com</h3>
 
   <p align="center">
     A Useful Real Estate Property Scraping Tool and Easy Setup
     <br/>
     <br/>
-    <a href="https://github.com/mustafahubs/ForSaleByOwner-ScraperTool">View Demo</a>
-    .
     <a href="https://github.com/mustafahubs/ForSaleByOwner-ScraperTool/issues">Report Bug</a>
     .
     <a href="https://github.com/mustafahubs/ForSaleByOwner-ScraperTool/issues">Request Feature</a>
@@ -35,8 +33,6 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-![Screen Shot](images/Scrap Proprties.png)
 
 This project is a Python web scraper designed to extract sale listings data from the ForSaleByOwner website. By utilizing web scraping techniques, the scraper automates the process of gathering valuable information from the website, such as property details, pricing, location, and contact information.
 
