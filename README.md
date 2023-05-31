@@ -59,14 +59,14 @@ First of all you make sure you have Git and Python Should be installed in your m
 
 And both should be accessible globally on your terminal.
 
-Open your terminal in any location and clone the repository by running:
-
 ### Prerequisites
 * Git
 * Python
 * Pip
 
 ### Installation
+
+Open your terminal in any location clone the repository by running and follow the steps below:
 
 1. Clone this repository
 
