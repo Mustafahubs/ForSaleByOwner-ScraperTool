@@ -41,8 +41,11 @@ This project is a Python web scraper designed to extract sale listings data from
 The project relies on the following Python libraries:
 
 Requests: for making HTTP requests and retrieving HTML content.
+
 CSV: for handling the data export functionality.
+
 Prettytable: To show text on the terminal in tabular form.
+
 pyinputplus: To get input from the user and validate it.
 
 * [Requests](https://requests.readthedocs.io/en/latest/)
@@ -67,7 +70,7 @@ Open your terminal in any location clone the repository by running and follow th
 1. Clone this repository
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/Mustafahubs/ForSaleByOwner-ScraperTool.git
 ```
 
 2. Change directory
